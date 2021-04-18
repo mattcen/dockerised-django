@@ -1,0 +1,4 @@
+Django
+django-environ
+django-restframework
+psycopg2-binary
